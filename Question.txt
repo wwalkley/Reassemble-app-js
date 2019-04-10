@@ -1,0 +1,4 @@
+https://web.stanford.edu/class/archive/cs/cs107/cs107.1166/assign1/
+
+Task: Take an array of strings; merge the strings in the array that have the most common characters in a row; continue this process until
+all strings are combined into a sentence. 
